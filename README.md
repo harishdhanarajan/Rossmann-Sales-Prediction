@@ -1,2 +1,2 @@
-# Sales-Predition-
+# Sales-Prediction
 Video Presentation
